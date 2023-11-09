@@ -1,4 +1,5 @@
 # Cara menjalankan 
+**Pastikan menginstall node.js**
 1. Pergi ke terminal
 2. ketik pada terminal : npm install -D tailwindcss
 3. ketik pada terminal : npx tailwindcss init
