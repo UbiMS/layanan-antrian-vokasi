@@ -5,3 +5,4 @@
 3. ketik pada terminal : npx tailwindcss init
 4. ketik pada terminal : npm run dev
 5. enjoy aman jalanin tailwind.
+6. Heidi Ganteng
